@@ -222,3 +222,8 @@ hr {
 #times h2 {
     color: #fafafa;
 }
+
+footer ul {
+
+    display: inline-block;
+}
